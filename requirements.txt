@@ -1,0 +1,11 @@
+numpy==1.10.1
+pandas==0.17.1
+matplotlib==1.4.3
+scikit-learn==0.17
+scipy==0.16.1
+seaborn==0.6.0
+jupyter==1.0.0
+librosa==0.4.1
+# Needs OpenCV http://www.pyimagesearch.com/2015/06/29/install-opencv-3-0-and-python-3-4-on-osx/
+requests==2.8.1
+csvkit==0.9.1
